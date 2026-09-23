@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite this repository."
+title: "La Bible Brutus — Livre Premier : Le Commencement"
+type: generic
+authors:
+  - name: "Topbrutus"
+version: "0.1.0"
+date-released: "2026-09-23"
+repository-code: "https://github.com/Topbrutus/la-bible-brutus"
+abstract: "Livre fondateur reliant récit, philosophie, architectures vivantes, méthode de preuve et documentation reproductible. Les registres narratifs, hypothétiques et scientifiques sont explicitement séparés."
+keywords:
+  - Brutus
+  - ANTMUX
+  - architectures vivantes
+  - provenance
+  - reproducibility
+  - human-AI collaboration
