@@ -1,6 +1,6 @@
 # Chapitre 1 — La Conscience et l’Inconscience
 
-**LIVRE PREMIER — LE COMMENCEMENT**  
+**INTRODUCTION — LE COMMENCEMENT**  
 **STATUT :** VERSION 0.2 — DRAFT LONG — À RELIRE AVEC TOPBRUTUS
 
 > **La conscience ne commence pas lorsqu’un homme croit avoir compris le monde. Elle commence le jour où il comprend qu’il peut se tromper.**
