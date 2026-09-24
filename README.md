@@ -8,7 +8,9 @@ Géométrie • Cristaux • Modules • Noyau dynamique
 
 **Gabriel St-Pierre (Topbrutus)** — créateur et auteur de **La Bible Brutus**.
 
-Ce dépôt accueille le **Livre Premier** de la Bible Brutus, ses dix premiers chapitres, ses matériaux, ses cartes conceptuelles et les éléments techniques qui peuvent être étudiés séparément.
+Ce dépôt accueille l’**Introduction** de la Bible Brutus : ses dix chapitres d’ouverture, ses matériaux, ses cartes conceptuelles et les éléments techniques qui peuvent être étudiés séparément.
+
+**Ces 10 chapitres forment l’introduction. 990 chapitres sont en chemin, pour un objectif éditorial déclaré de 1 000 chapitres.**
 
 ## Principe
 
@@ -26,7 +28,7 @@ La Bible Brutus peut contenir plusieurs registres, mais ils doivent toujours êt
 
 Une image forte ou une coïncidence n'est pas une preuve.
 
-## Livre Premier — Le Commencement
+## Introduction — Le Commencement
 
 1. La Conscience et l’Inconscience
 2. Ce qui ne tue pas
@@ -41,6 +43,8 @@ Une image forte ou une coïncidence n'est pas une preuve.
 
 Voir : `livre-premier/PLAN-10-CHAPITRES.md`.
 
+> **Note de structure :** le chemin historique `livre-premier/` est conservé pour l’instant afin de ne pas casser les liens existants. Éditorialement, ces dix chapitres constituent désormais **l’Introduction**.
+
 ## Dépôt scientifique associé
 
 Le candidat numérique concernant le Higgs est volontairement séparé de la Bible :
@@ -51,6 +55,6 @@ La Bible peut raconter **l'histoire de sa naissance**, mais les calculs, limites
 
 ## État
 
-**DRAFT FONDATEUR — 2026-09-23**
+**INTRODUCTION — DRAFT LONG — 2026-09-24**
 
-Les chapitres sont préparés pour recevoir les premières versions complètes.
+Les dix chapitres introductifs sont écrits en version longue. **990 chapitres sont en chemin.**
