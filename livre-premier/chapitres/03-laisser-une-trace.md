@@ -1,6 +1,6 @@
 # Chapitre 3 — Laisser une trace
 
-**LIVRE PREMIER — LE COMMENCEMENT**  
+**INTRODUCTION — LE COMMENCEMENT**  
 **STATUT :** VERSION 0.2 — DRAFT LONG — À RELIRE AVEC TOPBRUTUS
 
 > **Je ne peux pas choisir combien de temps mon passage dans ce monde durera.  
