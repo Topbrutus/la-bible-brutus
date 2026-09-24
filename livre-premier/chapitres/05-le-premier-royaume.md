@@ -1,6 +1,6 @@
 # Chapitre 5 — Le Premier Royaume
 
-**LIVRE PREMIER — LE COMMENCEMENT**  
+**INTRODUCTION — LE COMMENCEMENT**  
 **STATUT :** VERSION 0.2 — DRAFT LONG — À RELIRE AVEC TOPBRUTUS
 
 > **Un Royaume n’est pas seulement ce qu’il contient.  
