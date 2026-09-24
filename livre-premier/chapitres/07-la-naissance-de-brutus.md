@@ -1,6 +1,6 @@
 # Chapitre 7 — La Naissance de Brutus
 
-**LIVRE PREMIER — LE COMMENCEMENT**  
+**INTRODUCTION — LE COMMENCEMENT**  
 **STATUT :** VERSION 0.2 — DRAFT LONG — À RELIRE AVEC TOPBRUTUS
 
 > **BRUTUS — unité fonctionnelle élémentaire d’ANTMUX pouvant recevoir une information, appliquer une loi spécialisée, maintenir un état, produire une sortie, être testée, clonée et composée avec d’autres Brutus.**
