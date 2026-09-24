@@ -1,6 +1,6 @@
 # Chapitre 9 — Ce que nous construisons pour les autres
 
-**LIVRE PREMIER — LE COMMENCEMENT**  
+**INTRODUCTION — LE COMMENCEMENT**  
 **STATUT :** VERSION 0.2 — DRAFT LONG — À RELIRE AVEC TOPBRUTUS
 
 > **Construire pour soi demande de savoir où sont les choses.  
@@ -7687,7 +7687,7 @@ Elle peut guider la structure.
 
 ---
 
-## Le Livre Premier comme plate
+## L’Introduction comme plate
 
 Dix chapitres.
 
@@ -7719,7 +7719,7 @@ La composition raconte quelque chose de plus grand que chaque chapitre.
 
 ---
 
-## Le test du Livre Premier
+## Le test de l’Introduction
 
 Le lecteur arrive-t-il au chapitre 10 en comprenant :
 
@@ -7759,7 +7759,7 @@ Parce qu’à partir du moment où le travail est transmissible, il peut vivre a
 
 Il devient un point de départ.
 
-Le chapitre 10 peut alors fermer le Livre Premier en disant :
+Le chapitre 10 peut alors fermer l’Introduction en disant :
 
 nous n’avons pas terminé.
 
@@ -7767,7 +7767,7 @@ Nous avons préparé.
 
 ---
 
-## Le premier livre comme manuel de naissance
+## L’introduction comme manuel de naissance
 
 Il raconte comment les règles sont apparues.
 
@@ -10722,7 +10722,7 @@ Et elle dit :
 
 ## La dernière responsabilité avant le Commencement
 
-Le Livre Premier approche de sa fin.
+L’Introduction approche de sa fin.
 
 Mais la transmission nous oblige à ne pas fermer la porte.
 
@@ -10818,7 +10818,7 @@ Et il reste une dernière chose à faire.
 
 Accepter que tout ce que nous venons d’écrire n’est pas la fin.
 
-Que les dix chapitres du Livre Premier ne sont pas un couronnement.
+Que les dix chapitres de l’Introduction ne sont pas un couronnement.
 
 Ils sont une préparation.
 
