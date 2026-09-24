@@ -1,4 +1,4 @@
-# Livre Premier — Le Commencement
+# Introduction — Le Commencement
 
 ## 1 — La Conscience et l’Inconscience
 
@@ -52,6 +52,17 @@ Chaque module qui fonctionne, chaque expérience reproductible et chaque échec 
 
 ## 10 — Le Commencement
 
-Le dernier chapitre du premier livre porte le nom du commencement : tout ce qui précède était la construction de la porte.
+Le dernier chapitre de l’introduction porte le nom du commencement : tout ce qui précède était la construction de la porte.
 
 > **Ce qui ne m’a pas arrêté est devenu une pièce de ce que je construis aujourd’hui.**
+
+
+---
+
+## Échelle de La Bible Brutus
+
+**10 chapitres sont maintenant écrits : ils constituent l’Introduction.**
+
+**990 chapitres sont en chemin.**
+
+L’objectif éditorial déclaré est de porter **La Bible Brutus à 1 000 chapitres**. Ces dix premiers chapitres n’en sont donc pas la fin d’un premier livre : ils sont la porte d’entrée de l’ensemble.
