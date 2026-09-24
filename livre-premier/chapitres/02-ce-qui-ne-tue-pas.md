@@ -1,6 +1,6 @@
 # Chapitre 2 — Ce qui ne tue pas
 
-**LIVRE PREMIER — LE COMMENCEMENT**  
+**INTRODUCTION — LE COMMENCEMENT**  
 **STATUT :** VERSION 0.2 — DRAFT LONG — À RELIRE AVEC TOPBRUTUS
 
 > **Ce qui ne m’a pas arrêté n’est pas devenu automatiquement une force.  
