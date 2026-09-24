@@ -1,6 +1,6 @@
 # Chapitre 6 — De l’Intuition à la Preuve
 
-**LIVRE PREMIER — LE COMMENCEMENT**  
+**INTRODUCTION — LE COMMENCEMENT**  
 **STATUT :** VERSION 0.2 — DRAFT LONG — À RELIRE AVEC TOPBRUTUS
 
 > **FORME ≠ STABILITÉ ≠ PREUVE**
@@ -645,7 +645,7 @@ La règle devient :
 
 > **FIGER AVANT DE COMPARER.**
 
-Cette phrase est l’une des plus importantes de tout le Livre Premier.
+Cette phrase est l’une des plus importantes de tout l’Introduction.
 
 ---
 
@@ -4840,7 +4840,7 @@ Le lecteur peut aller de l’un à l’autre.
 
 ## Le chapitre 6 comme charnière
 
-Jusqu’ici, le Livre Premier a parlé de conscience.
+Jusqu’ici, l’Introduction a parlé de conscience.
 
 De blessures.
 
