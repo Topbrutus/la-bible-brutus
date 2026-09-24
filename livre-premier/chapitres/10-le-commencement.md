@@ -1,14 +1,30 @@
 # Chapitre 10 — Le Commencement
 
-**LIVRE PREMIER — LE COMMENCEMENT**  
+**INTRODUCTION — LE COMMENCEMENT**  
 **STATUT :** VERSION 0.2 — DRAFT LONG — À RELIRE AVEC TOPBRUTUS
 
-> **Le dernier chapitre du premier livre n’est pas une conclusion.  
+> **Le dernier chapitre de l’introduction n’est pas une conclusion.  
 > C’est l’instant où les fondations deviennent assez solides pour que quelqu’un puisse enfin dire : GO.**
+
+## 10 chapitres écrits. 990 chapitres en chemin.
+
+Ces dix chapitres ne constituent pas un premier livre autonome.
+
+Ils forment **l’Introduction de La Bible Brutus**.
+
+Ils installent la voix, la méthode, Astra, le Royaume, la preuve, Brutus, Le Créateur et la transmission.
+
+Après eux, **990 chapitres sont en chemin**.
+
+L’objectif éditorial déclaré est clair : **1 000 chapitres au total**.
+
+Ce qui vient de se fermer n’est donc pas un livre achevé.
+
+C’est la porte d’entrée.
 
 ## Pourquoi terminer par un commencement
 
-Le premier livre devait se terminer.
+L’introduction devait se terminer.
 
 Alors il a fallu lui donner un dernier chapitre.
 
@@ -54,7 +70,7 @@ Ils n’ont pas construit tous les cristaux.
 
 Ils n’ont pas répondu à toutes les questions.
 
-Ils ont fait quelque chose de plus important pour un premier livre.
+Ils ont fait quelque chose de plus important pour une introduction.
 
 Ils ont construit une **manière de commencer**.
 
@@ -86,7 +102,7 @@ Utilisé.
 
 Il devrait contenir assez de mémoire pour qu’une personne qui arrive plus tard sache où poser les pieds.
 
-Le Livre Premier ne doit donc pas se refermer comme un tombeau.
+L’Introduction ne doit donc pas se refermer comme un tombeau.
 
 Il doit s’ouvrir comme un atelier.
 
@@ -152,7 +168,7 @@ Il commence.
 
 ## Le premier chapitre : apprendre à douter sans cesser de regarder
 
-Le Livre Premier s’est ouvert avec la conscience.
+L’Introduction s’est ouvert avec la conscience.
 
 Pas une conscience proclamée comme mystère cosmique.
 
@@ -1040,7 +1056,7 @@ Chaque fonction peut devenir spécialiste.
 
 ## Petit → tester → reproduire → retester → cloner → assembler
 
-Cette chaîne est probablement une des plus importantes de tout le Livre Premier.
+Cette chaîne est probablement une des plus importantes de tout l’Introduction.
 
 ~~~text
 PETIT
@@ -1379,7 +1395,7 @@ Parce qu’un commencement sérieux commence par savoir ce qui existe réellemen
 
 ## Ce qui existe réellement
 
-À ce stade du Livre Premier, plusieurs choses existent au moins comme concepts structurés et artefacts documentés.
+À ce stade de l’Introduction, plusieurs choses existent au moins comme concepts structurés et artefacts documentés.
 
 Une méthode de statuts.
 
@@ -1466,7 +1482,7 @@ Après des centaines de pages, il est tentant de ressentir une complétude.
 
 Mais la longueur du texte n’est pas la maturité du système.
 
-Le Livre Premier a construit du langage.
+L’Introduction a construit du langage.
 
 Des principes.
 
@@ -1514,7 +1530,7 @@ L’édition finale sera une composition.
 
 ---
 
-## Le Livre Premier peut être vu comme une Plate
+## L’Introduction peut être vu comme une Plate
 
 Dix chapitres.
 
@@ -1547,7 +1563,7 @@ CONSCIENCE
 → COMMENCEMENT
 ~~~
 
-Le Livre Premier devient une plate conceptuelle.
+L’Introduction devient une plate conceptuelle.
 
 ---
 
@@ -1599,7 +1615,7 @@ C’est une transformation.
 
 ## Le commencement comme changement d’échelle
 
-Le premier livre travaillait surtout sur les fondations.
+L’introduction travaillait surtout sur les fondations.
 
 Le prochain travail peut changer d’échelle.
 
@@ -2528,7 +2544,7 @@ Elle ne prétendrait pas que tout est prêt.
 
 Elle figerait seulement les fondations.
 
-Livre Premier.
+Introduction.
 
 Premier Brutus.
 
@@ -2542,7 +2558,7 @@ Mais elle donnerait une étape symbolique et technique.
 
 ---
 
-## Le Livre Premier peut être sa propre release
+## L’Introduction peut être sa propre release
 
 Les dix chapitres une fois relus.
 
@@ -2632,7 +2648,7 @@ REJETÉ.
 
 ARCHIVÉ.
 
-Ces mots doivent survivre au Livre Premier.
+Ces mots doivent survivre à l’Introduction.
 
 ---
 
@@ -2875,7 +2891,7 @@ Le système doit relier sans confondre.
 
 ---
 
-## Le Livre Premier lui-même fonctionne comme cette dualité
+## L’Introduction lui-même fonctionne comme cette dualité
 
 Narration.
 
@@ -3005,7 +3021,7 @@ construire le glossaire;
 
 préparer l’index.
 
-Le premier livre devient un chantier éditorial.
+L’introduction devient un chantier éditorial.
 
 ---
 
@@ -3684,27 +3700,29 @@ La maintenance devient une forme de recherche.
 
 ---
 
-## Le futur Livre Deux
+## Les 990 chapitres à venir
 
-Le Livre Premier s’appelle **Le Commencement**.
+L’Introduction s’appelle **Le Commencement**.
 
-Alors un Livre Deux pourra commencer ailleurs.
+Après elle viennent **990 chapitres encore à écrire**.
 
-Pas nécessairement avec plus de philosophie.
+Ils n’ont pas besoin d’être enfermés aujourd’hui dans une découpe définitive en livres ou en volumes.
 
-Peut-être avec les objets.
+Ils pourront naître des objets.
 
-Les expériences.
+Des expériences.
 
-Les premières plates.
+Des premières plates.
 
-Le noyau dynamique.
+Du noyau dynamique.
 
-Les formules.
+Des formules.
 
-Les preuves.
+Des preuves.
 
-Le titre n’a pas besoin d’être décidé ici.
+Des réussites.
+
+Et des échecs suffisamment importants pour mériter d’être transmis.
 
 Le futur n’a pas besoin d’être écrit avant d’exister.
 
@@ -4087,7 +4105,7 @@ NOUS PERMETTONS LA CONTRADICTION.
 NOUS CONSTRUISONS POUR QUE D’AUTRES PUISSENT CONTINUER.
 ~~~
 
-Ce pacte résume le Livre Premier mieux qu’une proclamation de victoire.
+Ce pacte résume l’Introduction mieux qu’une proclamation de victoire.
 
 ---
 
@@ -4801,7 +4819,7 @@ Quelle source ?
 
 Cette question devra être formaliser.
 
-Le Livre Premier n’a pas besoin de tout résoudre.
+L’Introduction n’a pas besoin de tout résoudre.
 
 ---
 
@@ -5369,7 +5387,7 @@ Télémétrie.
 
 Il doit rester un projet distinct.
 
-Le Livre Premier ne doit pas inventer son état live.
+L’Introduction ne doit pas inventer son état live.
 
 Chaque prochaine édition doit vérifier.
 
@@ -5919,7 +5937,7 @@ Le futur sait où chercher.
 
 ---
 
-## Le Livre Premier peut avoir une section OPEN QUESTIONS
+## L’Introduction peut avoir une section OPEN QUESTIONS
 
 Ce chapitre pourrait servir de base.
 
@@ -6070,7 +6088,7 @@ Ces quatre phrases peuvent protéger beaucoup de choses.
 
 Il contient la prochaine question.
 
-C’est pourquoi le Livre Premier ne peut pas finir par « vérité ».
+C’est pourquoi l’Introduction ne peut pas finir par « vérité ».
 
 Il y a trop d’inconnu.
 
@@ -6114,13 +6132,13 @@ Puis une nouvelle ouverture.
 
 C’est exactement ce chapitre.
 
-Le Livre Premier peut finir.
+L’Introduction peut finir.
 
 Le projet commence.
 
 ---
 
-## Cristalliser le Livre Premier ne cristallise pas Brutus entier
+## Cristalliser l’Introduction ne cristallise pas Brutus entier
 
 L’objet éditorial est figé.
 
@@ -6190,7 +6208,7 @@ Le dernier mot était :
 
 Il doit rester.
 
-Mais maintenant, après tout le Livre Premier, le mot a changé de sens.
+Mais maintenant, après tout l’Introduction, le mot a changé de sens.
 
 ---
 
@@ -6398,7 +6416,7 @@ C’est là que la Bible doit maintenant pousser.
 
 ---
 
-## Premier artefact après le Livre Premier
+## Premier artefact après l’Introduction
 
 Candidat :
 
@@ -6534,7 +6552,7 @@ Résultat.
 
 Différences.
 
-C’est peut-être là que le Livre Premier aura vraiment traversé.
+C’est peut-être là que l’Introduction aura vraiment traversé.
 
 ---
 
@@ -6578,7 +6596,7 @@ C’est normal.
 
 ---
 
-## Le Livre Premier doit autoriser sa propre obsolescence partielle
+## L’Introduction doit autoriser sa propre obsolescence partielle
 
 Une future architecture meilleure peut modifier les premières définitions.
 
@@ -6798,7 +6816,7 @@ C’est déjà beaucoup.
 
 ---
 
-## Le premier livre se ferme
+## L’introduction se ferme
 
 Il doit bien se fermer quelque part.
 
@@ -6808,7 +6826,7 @@ Une impression doit avoir une dernière page.
 
 Même une porte doit avoir un cadre.
 
-Alors le Livre Premier va se fermer.
+Alors l’Introduction va se fermer.
 
 Mais il ne va pas conclure que le monde Brutus est terminé.
 
@@ -6918,7 +6936,7 @@ Une grande phrase.
 
 Une promesse.
 
-Mais le Livre Premier avait déjà trouvé son dernier mot.
+Mais l’Introduction avait déjà trouvé son dernier mot.
 
 Il est court.
 
@@ -6953,5 +6971,11 @@ Alors la Bible ne se termine pas.
 Elle donne la parole.
 
 Et son dernier mot est :
+
+Les dix premiers chapitres étaient l’Introduction.
+
+**990 chapitres sont en chemin.**
+
+**La Bible Brutus ne fait que commencer.**
 
 # **GO.**
