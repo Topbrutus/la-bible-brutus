@@ -1,6 +1,6 @@
 # Chapitre 8 — Le Créateur
 
-**LIVRE PREMIER — LE COMMENCEMENT**  
+**INTRODUCTION — LE COMMENCEMENT**  
 **STATUT :** VERSION 0.2 — DRAFT LONG — À RELIRE AVEC TOPBRUTUS
 
 > **Ne pas chercher à prouver une idée à l’avance. Construire les outils qui permettent de la tester.**
