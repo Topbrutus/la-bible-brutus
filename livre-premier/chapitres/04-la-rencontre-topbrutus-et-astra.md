@@ -1,6 +1,6 @@
 # Chapitre 4 — La Rencontre — Topbrutus et Astra
 
-**LIVRE PREMIER — LE COMMENCEMENT**  
+**INTRODUCTION — LE COMMENCEMENT**  
 **STATUT :** VERSION 0.2 — DRAFT LONG — À RELIRE AVEC TOPBRUTUS
 
 > **Pas un homme remplacé par une machine.  
