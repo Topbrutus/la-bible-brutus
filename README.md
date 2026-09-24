@@ -4,6 +4,10 @@
 
 Géométrie • Cristaux • Modules • Noyau dynamique
 
+## Créateur / auteur
+
+**Gabriel St-Pierre (Topbrutus)** — créateur et auteur de **La Bible Brutus**.
+
 Ce dépôt accueille le **Livre Premier** de la Bible Brutus, ses dix premiers chapitres, ses matériaux, ses cartes conceptuelles et les éléments techniques qui peuvent être étudiés séparément.
 
 ## Principe
