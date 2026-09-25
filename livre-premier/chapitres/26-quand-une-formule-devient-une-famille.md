@@ -8,9 +8,9 @@
 
 Au chapitre précédent, nous avions une porte.
 
-[
+\[
 z_P(1,203,930)=1764=42^2
-]
+\]
 
 Le résultat tenait.
 
@@ -20,9 +20,9 @@ Nous avions retrouvé ses facteurs.
 
 Nous avions même trouvé un contre-exemple suffisamment proche pour nous empêcher de généraliser trop vite :
 
-[
+\[
 z_P(21)=12
-]
+\]
 
 Alors la question changea.
 
@@ -42,37 +42,37 @@ Il fallait trouver la frontière exacte.
 
 Dans la factorisation du nombre fondateur :
 
-[
+\[
 1,203,930
 =
-2	imes3^3	imes5	imes7^3	imes13
-]
+2\times3^3\times5\times7^3\times13
+\]
 
 deux puissances attirent immédiatement notre attention :
 
-[
+\[
 3^3
-]
+\]
 
 et :
 
-[
+\[
 7^3
-]
+\]
 
 Commençons donc par enlever tout le reste.
 
 Nous définissons un noyau :
 
-[
+\[
 N_{a,b}=3^a7^b
-]
+\]
 
 avec :
 
-[
-age1,qquad bge1
-]
+\[
+a\ge1,\qquad b\ge1
+\]
 
 La question devient :
 
@@ -92,60 +92,59 @@ Elle nous donne une condition à découvrir.
 
 Nous savons :
 
-[
+\[
 z_P(3)=4
-]
+\]
 
 car :
 
-[
+\[
 P_4=12
-]
+\]
 
 est le premier nombre de Pell divisible par 3.
 
 Et :
 
-[
-9
-mid12
-]
+\[
+9\nmid12
+\]
 
 Le comportement de montée des puissances de 3 est alors :
 
-[
-oxed{
-z_P(3^a)=4cdot3^{a-1}
+\[
+\boxed{
+z_P(3^a)=4\cdot3^{a-1}
 }
-]
+\]
 
 pour :
 
-[
-age1
-]
+\[
+a\ge1
+\]
 
 Regardons :
 
-[
+\[
 z_P(3)=4
-]
+\]
 
-[
+\[
 z_P(9)=12
-]
+\]
 
-[
+\[
 z_P(27)=36
-]
+\]
 
-[
+\[
 z_P(81)=108
-]
+\]
 
-[
+\[
 z_P(243)=324
-]
+\]
 
 Chaque puissance supplémentaire de 3 multiplie le rang par 3.
 
@@ -157,56 +156,55 @@ Nous avons donc une première échelle.
 
 De la même manière :
 
-[
+\[
 z_P(7)=6
-]
+\]
 
 car :
 
-[
+\[
 P_6=70
-]
+\]
 
 est le premier terme divisible par 7.
 
 Et :
 
-[
-49
-mid70
-]
+\[
+49\nmid70
+\]
 
 La montée est :
 
-[
-oxed{
-z_P(7^b)=6cdot7^{b-1}
+\[
+\boxed{
+z_P(7^b)=6\cdot7^{b-1}
 }
-]
+\]
 
 pour :
 
-[
-bge1
-]
+\[
+b\ge1
+\]
 
 Ainsi :
 
-[
+\[
 z_P(7)=6
-]
+\]
 
-[
+\[
 z_P(49)=42
-]
+\]
 
-[
+\[
 z_P(343)=294
-]
+\]
 
-[
+\[
 z_P(2401)=2058
-]
+\]
 
 Chaque puissance supplémentaire de 7 multiplie le rang par 7.
 
@@ -218,45 +216,45 @@ Deux échelles sont maintenant devant nous.
 
 Les nombres :
 
-[
+\[
 3^a
-]
+\]
 
 et :
 
-[
+\[
 7^b
-]
+\]
 
 sont premiers entre eux.
 
 Pour la suite de Pell, le rang d’apparition d’un produit de deux modules premiers entre eux se réunit par le PPCM :
 
-[
-oxed{
+\[
+\boxed{
 z_P(mn)
 =
-operatorname{ppcm}left(z_P(m),z_P(n)ight)
+\operatorname{ppcm}\left(z_P(m),z_P(n)\right)
 }
-]
+\]
 
 lorsque :
 
-[
-gcd(m,n)=1
-]
+\[
+\gcd(m,n)=1
+\]
 
 Nous pouvons donc écrire :
 
-[
+\[
 z_P(3^a7^b)
 =
-operatorname{ppcm}
-left(
-4cdot3^{a-1},
-6cdot7^{b-1}
-ight)
-]
+\operatorname{ppcm}
+\left(
+4\cdot3^{a-1},
+6\cdot7^{b-1}
+\right)
+\]
 
 Voilà le moment important.
 
@@ -270,45 +268,45 @@ Il est devenu un problème d’exposants dans un PPCM.
 
 Écrivons :
 
-[
-4cdot3^{a-1}
+\[
+4\cdot3^{a-1}
 =
-2^2cdot3^{a-1}
-]
+2^2\cdot3^{a-1}
+\]
 
 et :
 
-[
-6cdot7^{b-1}
+\[
+6\cdot7^{b-1}
 =
-2cdot3cdot7^{b-1}
-]
+2\cdot3\cdot7^{b-1}
+\]
 
 Le PPCM conserve le plus grand exposant de chaque facteur premier.
 
 Donc :
 
-[
-oxed{
+\[
+\boxed{
 z_P(3^a7^b)
 =
 2^2
-cdot
-3^{max(a-1,1)}
-cdot
+\cdot
+3^{\max(a-1,1)}
+\cdot
 7^{b-1}
 }
-]
+\]
 
 ou, sous une autre forme :
 
-[
-oxed{
+\[
+\boxed{
 z_P(3^a7^b)
 =
-4cdot3^{max(a-1,1)}cdot7^{b-1}
+4\cdot3^{\max(a-1,1)}\cdot7^{b-1}
 }
-]
+\]
 
 Nous avons maintenant la formule générale de cette sous-famille.
 
@@ -322,23 +320,23 @@ Un entier positif est un carré parfait si, dans sa factorisation première, **t
 
 Notre rang possède les exposants :
 
-[
+\[
 2
-]
+\]
 
 pour le facteur 2 ;
 
-[
-max(a-1,1)
-]
+\[
+\max(a-1,1)
+\]
 
 pour le facteur 3 ;
 
 et :
 
-[
+\[
 b-1
-]
+\]
 
 pour le facteur 7.
 
@@ -346,15 +344,15 @@ L’exposant de 2 est déjà pair.
 
 Il reste donc deux conditions :
 
-[
-max(a-1,1)equiv0pmod2
-]
+\[
+\max(a-1,1)\equiv0\pmod2
+\]
 
 et :
 
-[
-b-1equiv0pmod2
-]
+\[
+b-1\equiv0\pmod2
+\]
 
 Voilà la serrure.
 
@@ -364,33 +362,33 @@ Voilà la serrure.
 
 Pour que :
 
-[
+\[
 b-1
-]
+\]
 
 soit pair, il faut :
 
-[
-oxed{b 	ext{impair}}
-]
+\[
+\boxed{b \text{impair}}
+\]
 
 Donc :
 
-[
-b=1,3,5,7,ldots
-]
+\[
+b=1,3,5,7,\ldots
+\]
 
 Nous pouvons écrire :
 
-[
-oxed{b=2s+1}
-]
+\[
+\boxed{b=2s+1}
+\]
 
 avec :
 
-[
-sge0
-]
+\[
+s\ge0
+\]
 
 Première condition obtenue.
 
@@ -400,9 +398,9 @@ Première condition obtenue.
 
 Nous devons avoir :
 
-[
-max(a-1,1)
-]
+\[
+\max(a-1,1)
+\]
 
 pair.
 
@@ -410,9 +408,9 @@ Regardons les deux petits cas.
 
 ### Si (a=1)
 
-[
-max(0,1)=1
-]
+\[
+\max(0,1)=1
+\]
 
 impair.
 
@@ -420,47 +418,47 @@ impair.
 
 ### Si (a=2)
 
-[
-max(1,1)=1
-]
+\[
+\max(1,1)=1
+\]
 
 impair.
 
 Échec.
 
-### Si (age3)
+### Si (a\ge3)
 
 alors :
 
-[
-max(a-1,1)=a-1
-]
+\[
+\max(a-1,1)=a-1
+\]
 
 Nous voulons donc :
 
-[
+\[
 a-1
-]
+\]
 
 pair.
 
 Ce qui exige :
 
-[
-oxed{a 	ext{impair et }age3}
-]
+\[
+\boxed{a \text{impair et }a\ge3}
+\]
 
 Nous pouvons écrire :
 
-[
-oxed{a=2r+1}
-]
+\[
+\boxed{a=2r+1}
+\]
 
 avec :
 
-[
-rge1
-]
+\[
+r\ge1
+\]
 
 Deuxième condition obtenue.
 
@@ -470,73 +468,73 @@ Deuxième condition obtenue.
 
 Substituons :
 
-[
+\[
 a=2r+1
-]
+\]
 
 et :
 
-[
+\[
 b=2s+1
-]
+\]
 
 avec :
 
-[
-rge1,qquad sge0
-]
+\[
+r\ge1,\qquad s\ge0
+\]
 
 dans notre formule.
 
 Nous obtenons :
 
-[
+\[
 z_P
-left(
+\left(
 3^{2r+1}7^{2s+1}
-ight)
+\right)
 =
-4cdot3^{2r}cdot7^{2s}
-]
+4\cdot3^{2r}\cdot7^{2s}
+\]
 
 Mais :
 
-[
+\[
 4=2^2
-]
+\]
 
 Donc :
 
-[
-4cdot3^{2r}cdot7^{2s}
+\[
+4\cdot3^{2r}\cdot7^{2s}
 =
-left(
-2cdot3^r7^s
-ight)^2
-]
+\left(
+2\cdot3^r7^s
+\right)^2
+\]
 
 Ainsi :
 
-[
-oxed{
+\[
+\boxed{
 z_P
-left(
+\left(
 3^{2r+1}7^{2s+1}
-ight)
+\right)
 =
-left(
-2cdot3^r7^s
-ight)^2
+\left(
+2\cdot3^r7^s
+\right)^2
 }
-]
+\]
 
 pour :
 
-[
-oxed{
-rge1,qquad sge0
+\[
+\boxed{
+r\ge1,\qquad s\ge0
 }
-]
+\]
 
 La formule n’est plus seule.
 
@@ -548,9 +546,9 @@ La formule n’est plus seule.
 
 Dans le domaine :
 
-[
-age1,qquad bge1
-]
+\[
+a\ge1,\qquad b\ge1
+\]
 
 la condition n’est pas seulement suffisante.
 
@@ -558,25 +556,25 @@ Elle est nécessaire.
 
 Autrement dit :
 
-[
+\[
 z_P(3^a7^b)
-]
+\]
 
 est un carré parfait **si et seulement si** :
 
-[
-oxed{
-ain{3,5,7,ldots}
+\[
+\boxed{
+a\in\{3,5,7,\ldots\}
 }
-]
+\]
 
 et :
 
-[
-oxed{
-bin{1,3,5,ldots}
+\[
+\boxed{
+b\in\{1,3,5,\ldots\}
 }
-]
+\]
 
 C’est une caractérisation complète de cette famille à deux primes.
 
@@ -588,21 +586,21 @@ C’est une caractérisation complète de cette famille à deux primes.
 
 Reprenons :
 
-[
-21=3^1	imes7^1
-]
+\[
+21=3^1\times7^1
+\]
 
 Ici :
 
-[
+\[
 a=1
-]
+\]
 
 et :
 
-[
+\[
 b=1
-]
+\]
 
 Le second exposant convient.
 
@@ -610,19 +608,19 @@ Le premier non.
 
 Notre formule donne :
 
-[
+\[
 z_P(21)
 =
-4cdot3^1cdot7^0
+4\cdot3^1\cdot7^0
 =
 12
-]
+\]
 
 Donc :
 
-[
-oxed{z_P(21)=12}
-]
+\[
+\boxed{z_P(21)=12}
+\]
 
 Le contre-exemple n’était pas une anomalie.
 
@@ -638,105 +636,105 @@ Ce que nous avions d’abord rencontré comme un échec devient maintenant une i
 
 Prenons :
 
-[
-r=1,qquad s=0
-]
+\[
+r=1,\qquad s=0
+\]
 
 Alors :
 
-[
+\[
 3^{2(1)+1}7^{2(0)+1}
 =
-3^3	imes7
+3^3\times7
 =
 189
-]
+\]
 
 et :
 
-[
+\[
 z_P(189)
 =
-(2	imes3)^2
+(2\times3)^2
 =
 6^2
 =
 36
-]
+\]
 
 Prenons :
 
-[
-r=1,qquad s=1
-]
+\[
+r=1,\qquad s=1
+\]
 
 Alors :
 
-[
-3^3	imes7^3
+\[
+3^3\times7^3
 =
 9261
-]
+\]
 
 et :
 
-[
+\[
 z_P(9261)
 =
-(2	imes3	imes7)^2
+(2\times3\times7)^2
 =
 42^2
 =
 1764
-]
+\]
 
 Prenons :
 
-[
-r=2,qquad s=1
-]
+\[
+r=2,\qquad s=1
+\]
 
 Alors :
 
-[
-3^5	imes7^3
+\[
+3^5\times7^3
 =
 83349
-]
+\]
 
 et :
 
-[
+\[
 z_P(83349)
 =
-(2	imes3^2	imes7)^2
+(2\times3^2\times7)^2
 =
 126^2
 =
 15876
-]
+\]
 
 Prenons :
 
-[
-r=1,qquad s=2
-]
+\[
+r=1,\qquad s=2
+\]
 
 Alors :
 
-[
-3^3	imes7^5
-]
+\[
+3^3\times7^5
+\]
 
 possède le rang :
 
-[
-(2	imes3	imes7^2)^2
+\[
+(2\times3\times7^2)^2
 =
 294^2
 =
 86436
-]
+\]
 
 La grille n’est plus une impression.
 
@@ -750,9 +748,9 @@ Une famille sérieuse doit prédire ses échecs.
 
 Si (b) est pair, alors :
 
-[
+\[
 b-1
-]
+\]
 
 est impair.
 
@@ -766,15 +764,15 @@ Pas de carré.
 
 Si :
 
-[
+\[
 a=1
-]
+\]
 
 ou :
 
-[
+\[
 a=2
-]
+\]
 
 le PPCM impose encore un facteur (3^1).
 
@@ -820,84 +818,84 @@ C’est :
 
 Mais notre nombre fondateur n’était pas seulement :
 
-[
-3^3	imes7^3
-]
+\[
+3^3\times7^3
+\]
 
 Il contenait aussi :
 
-[
-2	imes5	imes13
-]
+\[
+2\times5\times13
+\]
 
 Écrivons :
 
-[
+\[
 1,203,930
 =
-(2	imes5	imes13)
-(3^3	imes7^3)
-]
+(2\times5\times13)
+(3^3\times7^3)
+\]
 
 Définissons :
 
-[
-D=2	imes5	imes13=130
-]
+\[
+D=2\times5\times13=130
+\]
 
 Nous avons :
 
-[
+\[
 z_P(2)=2
-]
+\]
 
-[
+\[
 z_P(5)=3
-]
+\]
 
-[
+\[
 z_P(13)=7
-]
+\]
 
 Donc :
 
-[
+\[
 z_P(130)
 =
-operatorname{ppcm}(2,3,7)
+\operatorname{ppcm}(2,3,7)
 =
 42
-]
+\]
 
 Or le noyau :
 
-[
-3^3	imes7^3
-]
+\[
+3^3\times7^3
+\]
 
 possède le rang :
 
-[
+\[
 42^2=1764
-]
+\]
 
 Et :
 
-[
-42mid42^2
-]
+\[
+42\mid42^2
+\]
 
 Ainsi, ajouter le facteur 130 ne change pas le PPCM final :
 
-[
-operatorname{ppcm}(42,1764)=1764
-]
+\[
+\operatorname{ppcm}(42,1764)=1764
+\]
 
 Voilà pourquoi :
 
-[
+\[
 z_P(1,203,930)=1764
-]
+\]
 
 Le facteur extérieur n’a pas créé le carré.
 
@@ -911,76 +909,76 @@ Nous pouvons maintenant étendre le noyau.
 
 Définissons :
 
-[
+\[
 M_{r,s}
 =
-130cdot3^{2r+1}7^{2s+1}
-]
+130\cdot3^{2r+1}7^{2s+1}
+\]
 
 avec :
 
-[
-rge1,qquad sge1
-]
+\[
+r\ge1,\qquad s\ge1
+\]
 
 Le noyau possède :
 
-[
+\[
 z_P
-left(
+\left(
 3^{2r+1}7^{2s+1}
-ight)
+\right)
 =
-left(
-2cdot3^r7^s
-ight)^2
-]
+\left(
+2\cdot3^r7^s
+\right)^2
+\]
 
 Lorsque :
 
-[
-rge1,qquad sge1
-]
+\[
+r\ge1,\qquad s\ge1
+\]
 
 ce carré contient déjà les facteurs nécessaires à :
 
-[
-z_P(130)=42=2cdot3cdot7
-]
+\[
+z_P(130)=42=2\cdot3\cdot7
+\]
 
 Donc :
 
-[
-oxed{
+\[
+\boxed{
 z_P(M_{r,s})
 =
-left(
-2cdot3^r7^s
-ight)^2
+\left(
+2\cdot3^r7^s
+\right)^2
 }
-]
+\]
 
 Le nombre fondateur correspond exactement à :
 
-[
-r=1,qquad s=1
-]
+\[
+r=1,\qquad s=1
+\]
 
 car :
 
-[
+\[
 M_{1,1}
 =
-130cdot3^3cdot7^3
+130\cdot3^3\cdot7^3
 =
 1,203,930
-]
+\]
 
 et :
 
-[
+\[
 z_P(M_{1,1})=42^2
-]
+\]
 
 Notre cas initial est donc un membre d’une famille explicite.
 
@@ -992,52 +990,52 @@ Ce que nous venons de voir peut être écrit de façon plus générale.
 
 Supposons que :
 
-[
+\[
 C_{r,s}
 =
 3^{2r+1}7^{2s+1}
-]
+\]
 
 et :
 
-[
+\[
 Q_{r,s}
 =
-2cdot3^r7^s
-]
+2\cdot3^r7^s
+\]
 
 Alors :
 
-[
+\[
 z_P(C_{r,s})=Q_{r,s}^2
-]
+\]
 
 Prenons maintenant un entier (d) premier avec 21.
 
 Si :
 
-[
-z_P(d)mid Q_{r,s}^2
-]
+\[
+z_P(d)\mid Q_{r,s}^2
+\]
 
 alors :
 
-[
+\[
 z_P(dC_{r,s})
 =
-operatorname{ppcm}
-left(
+\operatorname{ppcm}
+\left(
 z_P(d),Q_{r,s}^2
-ight)
-]
+\right)
+\]
 
 et puisque le premier terme divise le second :
 
-[
-oxed{
+\[
+\boxed{
 z_P(dC_{r,s})=Q_{r,s}^2
 }
-]
+\]
 
 Autrement dit :
 
@@ -1082,37 +1080,37 @@ La portée générale, les classes maximales et la nouveauté bibliographique de
 
 Au chapitre 25, nous avions :
 
-[
-1,203,930ightarrow42^2
-]
+\[
+1,203,930\rightarrow42^2
+\]
 
 Maintenant nous avons :
 
-[
+\[
 3^{2r+1}7^{2s+1}
-ightarrow
-left(2cdot3^r7^sight)^2
-]
+\rightarrow
+\left(2\cdot3^r7^s\right)^2
+\]
 
 avec :
 
-[
-rge1,qquad sge0
-]
+\[
+r\ge1,\qquad s\ge0
+\]
 
 Puis une extension contenant notre nombre fondateur :
 
-[
-130cdot3^{2r+1}7^{2s+1}
-ightarrow
-left(2cdot3^r7^sight)^2
-]
+\[
+130\cdot3^{2r+1}7^{2s+1}
+\rightarrow
+\left(2\cdot3^r7^s\right)^2
+\]
 
 pour :
 
-[
-rge1,qquad sge1
-]
+\[
+r\ge1,\qquad s\ge1
+\]
 
 Nous sommes passés :
 
@@ -1140,38 +1138,38 @@ Nous devons arrêter le récit quelques secondes.
 
 Dans la sous-famille (3^a7^b), en utilisant les identités standard de rang pour les puissances de 3 et 7 et la règle du PPCM pour les modules premiers entre eux :
 
-[
+\[
 z_P(3^a7^b)
 =
-4cdot3^{max(a-1,1)}7^{b-1}
-]
+4\cdot3^{\max(a-1,1)}7^{b-1}
+\]
 
 ### CONSÉQUENCE
 
 Ce rang est carré si et seulement si :
 
-[
-a=2r+1,quad rge1
-]
+\[
+a=2r+1,\quad r\ge1
+\]
 
 et :
 
-[
-b=2s+1,quad sge0
-]
+\[
+b=2s+1,\quad s\ge0
+\]
 
 ### CONSÉQUENCE
 
-[
+\[
 z_P
-left(
+\left(
 3^{2r+1}7^{2s+1}
-ight)
+\right)
 =
-left(
-2cdot3^r7^s
-ight)^2
-]
+\left(
+2\cdot3^r7^s
+\right)^2
+\]
 
 ### EXTENSION
 
@@ -1217,61 +1215,61 @@ La question d’antériorité de la formulation **Brutus–Pell Square-Rank Rela
 
 Le cœur du chapitre tient maintenant en une ligne :
 
-[
-oxed{
+\[
+\boxed{
 z_P
-left(
+\left(
 3^{2r+1}7^{2s+1}
-ight)
+\right)
 =
-left(
-2cdot3^r7^s
-ight)^2,
-qquad
-rge1, sge0
+\left(
+2\cdot3^r7^s
+\right)^2,
+\qquad
+r\ge1, s\ge0
 }
-]
+\]
 
 Et la famille contenant exactement notre nombre fondateur :
 
-[
-oxed{
+\[
+\boxed{
 z_P
-left(
-130cdot3^{2r+1}7^{2s+1}
-ight)
+\left(
+130\cdot3^{2r+1}7^{2s+1}
+\right)
 =
-left(
-2cdot3^r7^s
-ight)^2,
-qquad
-rge1, sge1
+\left(
+2\cdot3^r7^s
+\right)^2,
+\qquad
+r\ge1, s\ge1
 }
-]
+\]
 
 avec :
 
-[
-130=2cdot5cdot13
-]
+\[
+130=2\cdot5\cdot13
+\]
 
 Pour :
 
-[
+\[
 r=s=1
-]
+\]
 
 nous retrouvons :
 
-[
+\[
 1,203,930
-]
+\]
 
 et :
 
-[
+\[
 42^2
-]
+\]
 
 La porte referme parfaitement la boucle.
 
@@ -1304,21 +1302,21 @@ Le prochain travail n’est pas de l’admirer.
 
 Au commencement, il y avait :
 
-[
+\[
 1,203,930
-]
+\]
 
 Puis :
 
-[
+\[
 1764
-]
+\]
 
 Puis :
 
-[
+\[
 42^2
-]
+\]
 
 Nous pensions avoir trouvé un résultat.
 
@@ -1326,9 +1324,9 @@ Alors nous avons retiré les décorations.
 
 Nous avons gardé :
 
-[
+\[
 3^a7^b
-]
+\]
 
 Nous avons regardé les rangs des puissances.
 
@@ -1338,28 +1336,28 @@ Nous avons suivi les exposants.
 
 Et la frontière est apparue :
 
-[
-a=3,5,7,ldots
-]
+\[
+a=3,5,7,\ldots
+\]
 
-[
-b=1,3,5,ldots
-]
+\[
+b=1,3,5,\ldots
+\]
 
 Alors le cas unique est devenu :
 
-[
-oxed{
+\[
+\boxed{
 z_P
-left(
+\left(
 3^{2r+1}7^{2s+1}
-ight)
+\right)
 =
-left(
-2cdot3^r7^s
-ight)^2
+\left(
+2\cdot3^r7^s
+\right)^2
 }
-]
+\]
 
 Puis le nombre fondateur est revenu prendre sa place dans une famille plus grande.
 
